@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5b809076-4a72-43f7-861e-613b0b9d8303")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 133.35 24.13)
+		(size 34.29 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1405b275-b579-4da2-9868-e2fafc5e4269")
+		(property "Sheetname" "i8080"
+			(at 133.35 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "i8080.kicad_sch"
+			(at 133.35 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "i8080-sbc"
+				(path "/5b809076-4a72-43f7-861e-613b0b9d8303"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 72.39)
+		(size 34.29 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "52ab7aa1-1c14-4ee9-929f-af2fe2aed4ac")
+		(property "Sheetname" "Power"
+			(at 69.85 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_connectors.kicad_sch"
+			(at 69.85 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "i8080-sbc"
+				(path "/5b809076-4a72-43f7-861e-613b0b9d8303"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 72.39)
+		(size 34.29 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "acc80ac8-e8ce-4e71-bcf4-f7319a1d9a7b")
+		(property "Sheetname" "FPGA"
+			(at 133.35 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga.kicad_sch"
+			(at 133.35 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "i8080-sbc"
+				(path "/5b809076-4a72-43f7-861e-613b0b9d8303"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 120.65)
+		(size 34.29 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9d49043-2f79-4538-93b8-acf7dfe28ffa")
+		(property "Sheetname" "MCU"
+			(at 133.35 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 133.35 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "i8080-sbc"
+				(path "/5b809076-4a72-43f7-861e-613b0b9d8303"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

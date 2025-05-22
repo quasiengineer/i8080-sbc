@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74LVC861APW")(type "KiCad")(uri "${KIPRJMOD}/components/SN74LVC861APW/SN74LVC861APW.kicad_sym")(options "")(descr ""))
+  (lib (name "2EDN7524RXTMA1")(type "KiCad")(uri "${KIPRJMOD}/components/2EDN7524RXTMA1/2EDN7524RXTMA1.kicad_sym")(options "")(descr ""))
+  (lib (name "CD74HC243M96")(type "KiCad")(uri "${KIPRJMOD}/components/CD74HC243M96/CD74HC243M96.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0108EPWRG4")(type "KiCad")(uri "${KIPRJMOD}/components/TXS0108EPWRG4/TXS0108EPWRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "XC3S50A-4VQG100C")(type "KiCad")(uri "${KIPRJMOD}/components/XC3S50A-4VQG100C/XC3S50A-4VQG100C.kicad_sym")(options "")(descr ""))
+  (lib (name "M2GL005-TQG144I")(type "KiCad")(uri "${KIPRJMOD}/components/M2GL005-TQG144I/M2GL005-TQG144I.kicad_sym")(options "")(descr ""))
+  (lib (name "APX803-31SAG-7")(type "KiCad")(uri "${KIPRJMOD}/components/APX803_31SAG_7/APX803-31SAG-7.kicad_sym")(options "")(descr ""))
+  (lib (name "LX7167ACLD_TR")(type "KiCad")(uri "${KIPRJMOD}/components/LX7167ACLD_TR/LX7167ACLD_TR.kicad_sym")(options "")(descr ""))
+  (lib (name "symbols")(type "KiCad")(uri "${KIPRJMOD}/components/symbols.kicad_sym")(options "")(descr ""))
+)
