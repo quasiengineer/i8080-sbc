@@ -30407,8 +30407,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TMS"
-		(at 124.65 43.25 0)
+	(gr_text "TDO"
+		(at 125.25 43.25 0)
 		(layer "F.SilkS")
 		(uuid "1a9f8273-a75c-4c8c-8186-553158ec3350")
 		(effects
@@ -30419,8 +30419,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "RST"
-		(at 127.9 43.25 0)
+	(gr_text "TDI"
+		(at 128.5 43.25 0)
 		(layer "F.SilkS")
 		(uuid "3362081e-251c-4705-b3cb-fa899c69b0b1")
 		(effects
@@ -30530,7 +30530,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TDO"
+	(gr_text "TMS"
 		(at 133.9 43.25 0)
 		(layer "F.SilkS")
 		(uuid "85507ff9-0dd7-4ef9-b9d8-8b361954e302")
@@ -30592,8 +30592,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TDI"
-		(at 121.9 43.25 0)
+	(gr_text "RST"
+		(at 122 43.25 0)
 		(layer "F.SilkS")
 		(uuid "bdfa2e22-ba23-418d-922d-b27acc867538")
 		(effects
